@@ -1,0 +1,26 @@
+{
+  "name": "highcharts-round-edges",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jermspeaks/highcharts-round-edges",
+  "authors": [
+    "Jeremy Wong <jermspeaks@gmail.com>"
+  ],
+  "description": "Round edges on bar charts from Highcharts",
+  "main": "highcharts-rounded-corners.js",
+  "keywords": [
+    "bar",
+    "charts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highcharts": "^4.0.4"
+  }
+}
